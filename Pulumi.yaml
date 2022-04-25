@@ -1,0 +1,3 @@
+name: aws-pulumi
+runtime: go
+description: AWS POC
